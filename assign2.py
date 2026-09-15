@@ -117,4 +117,3 @@
 # practice
 
 def is_prime():
-    
